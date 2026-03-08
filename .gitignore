@@ -35,4 +35,15 @@ __pycache__/
 # Node.js (optional if you use JS projects)
 node_modules/
 
-.dSYM/
+# Ignore macOS & temporary files
+*.dYSM/
+*.DS_Store
+
+# Ignore VSCode workspace settings
+.vscode/
+
+# Ignore compiled binaries
+*.out
+*.exe
+*.o
+*.class
