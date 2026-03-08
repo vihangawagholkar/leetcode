@@ -36,7 +36,7 @@ __pycache__/
 node_modules/
 
 # Ignore macOS & temporary files
-*.dYSM/
+*.dSYM/
 *.DS_Store
 
 # Ignore VSCode workspace settings
