@@ -1,0 +1,36 @@
+# macOS system files
+.DS_Store
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiled / Binary files
+*.exe
+*.out
+*.class
+*.o
+*.so
+*.dll
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Text encoding / system files
+*.bak
+*.tmp
+*.orig
+*~
+
+# Python (optional if you use Python)
+__pycache__/
+*.py[cod]
+
+# Node.js (optional if you use JS projects)
+node_modules/
