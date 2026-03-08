@@ -34,3 +34,5 @@ __pycache__/
 
 # Node.js (optional if you use JS projects)
 node_modules/
+
+.dSYM/
